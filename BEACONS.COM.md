@@ -1,1 +1,1 @@
-‘Other Beacons,’ the fractal referred to in the editorial.  There are a number of other routines, all requiring various drawing or animation packages. The drawings are often bizarre or humorous, always with strange titles.
+*Other Beacons*, the fractal referred to in the editorial.  There are a number of other routines, all requiring various drawing or animation packages. The drawings are often bizarre or humorous, always with strange titles.
